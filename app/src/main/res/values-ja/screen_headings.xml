@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="admin_restrictions_changed_title">新しい設定</string>
+
+    <string name="settings_title">設定</string>
+    <string name="settings_device_owner_title">デバイス管理者</string>
+    <string name="settings_more_actions_title">その他の操作</string>
+    <string name="settings_site_permissions_title">サイト権限</string>
+    <string name="settings_files_title">ファイル</string>
+
+    <string name="settings_web_content_title">ウェブコンテンツ</string>
+    <string name="settings_web_content_description">ホームURL、ブラックリスト、ホワイトリスト、ブックマーク、ファイル</string>
+
+    <string name="settings_web_browsing_title">ウェブ閲覧</string>
+    <string name="settings_web_browsing_description">再読込、ナビゲーション、履歴、ブックマーク、検索プロバイダー</string>
+
+    <string name="settings_web_engine_title">ウェブエンジン</string>
+    <string name="settings_web_engine_description">JavaScript、DOMストレージ、Cookie、キャッシュ、ユーザーエージェント、ズーム</string>
+
+    <string name="settings_web_lifecycle_title">ウェブライフサイクル</string>
+    <string name="settings_web_lifecycle_description">起動時にロック、起動時にリセット、不活動時にリセット</string>
+
+    <string name="settings_appearance_title">外観</string>
+    <string name="settings_appearance_description">テーマ、アドレスバー、インセット、イマーシブ、ブロックメッセージ</string>
+
+    <string name="settings_device_title">デバイス</string>
+    <string name="settings_device_description">タイムアウト、回転、カメラ、マイク、位置情報、ロック解除ショートカット</string>
+
+    <string name="settings_js_scripts_title">JavaScript スクリプト</string>
+    <string name="settings_js_scripts_description">テーマ適用、デスクトップビューポート、カスタムスクリプト</string>
+
+    <string name="settings_mqtt_title">MQTT</string>
+    <string name="settings_mqtt_description">キオスクデバイスのリモート管理と監視</string>
+
+    <string name="settings_mqtt_connection_title">接続</string>
+    <string name="settings_mqtt_connection_description">ブローカーサーバーへの接続方法を指定</string>
+
+    <string name="settings_mqtt_topics_title">トピック</string>
+    <string name="settings_mqtt_topics_description">パブリッシュおよびサブスクライブ トピック設定</string>
+
+    <string name="settings_mqtt_will_title">遺言（LWT）</string>
+    <string name="settings_mqtt_will_description">予期しない切断のためのカスタムメッセージ</string>
+
+    <string name="settings_mqtt_restrictions_title">制限</string>
+    <string name="settings_mqtt_restrictions_description">ブローカーとクライアントの制限と制限事項</string>
+
+    <string name="settings_mqtt_topics_publish_title">パブリッシュ</string>
+    <string name="settings_mqtt_topics_subscribe_title">サブスクライブ</string>
+
+    <string name="settings_mqtt_topics_publish_event_title">イベント</string>
+    <string name="settings_mqtt_topics_publish_event_description">デバイスとウェブビューの状態変化をパブリッシュ</string>
+
+    <string name="settings_mqtt_topics_publish_response_title">レスポンス</string>
+    <string name="settings_mqtt_topics_publish_response_description">情報要求への返信をパブリッシュ</string>
+
+    <string name="settings_mqtt_topics_subscribe_command_title">コマンド</string>
+    <string name="settings_mqtt_topics_subscribe_command_description">制御コマンド（アクション）をサブスクライブ</string>
+
+    <string name="settings_mqtt_topics_subscribe_settings_title">設定</string>
+    <string name="settings_mqtt_topics_subscribe_settings_description">設定（構成）の変更をサブスクライブ</string>
+
+    <string name="settings_mqtt_topics_subscribe_request_title">リクエスト</string>
+    <string name="settings_mqtt_topics_subscribe_request_description">情報リクエストをサブスクライブ</string>
+
+    <string name="settings_debug_log_title">デバッグログ</string>
+
+    <string name="settings_unifiedpush_title">UnifiedPush</string>
+    <string name="settings_unifiedpush_description">プッシュメッセージ経由でキオスクを制御</string>
+
+    <string name="settings_about_title">について</string>
+    <string name="settings_about_description">パッケージ名、アプリバージョン、デバッグビルド、インストーラー</string>
+</resources>

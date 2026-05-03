@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="about_open_app_info">アプリ情報を開く</string>
+    <string name="about_section_app">アプリ</string>
+    <string name="about_section_device">デバイス</string>
+
+    <!-- App Info Labels -->
+    <string name="about_app_name">名前</string>
+    <string name="about_app_package">パッケージ</string>
+    <string name="about_app_version">バージョン</string>
+    <string name="about_app_min_sdk">最小 SDK</string>
+    <string name="about_app_target_sdk">ターゲット SDK</string>
+    <string name="about_app_debug_build">デバッグビルド</string>
+    <string name="about_app_installer">インストーラー</string>
+    <string name="about_app_device_owner">デバイス管理者</string>
+    <string name="about_app_lock_task_permitted">Lock Task 許可</string>
+    <string name="about_app_dhizuku_permission_granted">Dhizuku 権限付与</string>
+    <string name="about_app_instance_id">インスタンスID</string>
+    <string name="about_source_code_url">ソースコード URL</string>
+
+    <!-- Device Info Labels -->
+    <string name="about_device_android_version">Android バージョン</string>
+    <string name="about_device_webview_version">WebView バージョン</string>
+    <string name="about_device_screen_display">画面 / ディスプレイ</string>
+    <string name="about_device_managed_profile">管理対象プロファイル</string>
+    <string name="about_device_time_zone">タイムゾーン</string>
+    <string name="about_device_locale">ロケール</string>
+    <string name="about_device_total_ram">合計 RAM</string>
+    <string name="about_device_total_storage">合計ストレージ</string>
+    <string name="about_device_model">モデル</string>
+    <string name="about_device_manufacturer">製造者</string>
+    <string name="about_device_brand">ブランド</string>
+    <string name="about_device_device">デバイス</string>
+    <string name="about_device_product">製品</string>
+    <string name="about_device_hardware">ハードウェア</string>
+    <string name="about_device_board">ボード</string>
+    <string name="about_device_bootloader">ブートローダー</string>
+    <string name="about_device_security_patch">セキュリティパッチ</string>
+    <string name="about_device_supported_abis">サポート ABI</string>
+    <string name="about_device_supported_32bit_abis">サポート 32-bit ABI</string>
+    <string name="about_device_supported_64bit_abis">サポート 64-bit ABI</string>
+    <string name="about_device_build_fingerprint">ビルドフィンガープリント</string>
+
+</resources>

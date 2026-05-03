@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_theme_option">
+        <item>システムデフォルト</item>
+        <item>ダークモード</item>
+        <item>ライトモード</item>
+    </string-array>
+    <string-array name="entry_values_theme_option">
+        <item>SYSTEM</item>
+        <item>DARK</item>
+        <item>LIGHT</item>
+    </string-array>
+
+    <string-array name="entries_address_bar_mode_option">
+        <item>非表示</item>
+        <item>ロック時に非表示</item>
+        <item>表示</item>
+    </string-array>
+    <string-array name="entry_values_address_bar_mode_option">
+        <item>HIDDEN</item>
+        <item>HIDDEN_WHEN_LOCKED</item>
+        <item>SHOWN</item>
+    </string-array>
+
+    <string-array name="entries_address_bar_size_option">
+        <item>極小</item>
+        <item>小</item>
+        <item>中</item>
+        <item>大</item>
+        <item>極大</item>
+    </string-array>
+    <string-array name="entry_values_address_bar_size_option">
+        <item>EXTRA_SMALL</item>
+        <item>SMALL</item>
+        <item>MEDIUM</item>
+        <item>LARGE</item>
+        <item>EXTRA_LARGE</item>
+    </string-array>
+
+    <string-array name="entries_address_bar_position_option">
+        <item>上</item>
+        <item>下</item>
+    </string-array>
+    <string-array name="entry_values_address_bar_position_option">
+        <item>TOP</item>
+        <item>BOTTOM</item>
+    </string-array>
+
+    <string-array name="entries_floating_toolbar_mode_option">
+        <item>非表示</item>
+        <item>ロック時に非表示</item>
+        <item>表示</item>
+    </string-array>
+    <string-array name="entry_values_floating_toolbar_mode_option">
+        <item>HIDDEN</item>
+        <item>HIDDEN_WHEN_LOCKED</item>
+        <item>SHOWN</item>
+    </string-array>
+
+    <string-array name="entries_immersive_mode_option">
+        <item>常にオン</item>
+        <item>常にオフ</item>
+        <item>ロック時のみ</item>
+    </string-array>
+    <string-array name="entry_values_immersive_mode_option">
+        <item>ALWAYS_ON</item>
+        <item>ALWAYS_OFF</item>
+        <item>ONLY_WHEN_LOCKED</item>
+    </string-array>
+
+    <string-array name="entries_cache_mode_option">
+        <item>デフォルト</item>
+        <item>キャッシュ / ネットワーク</item>
+        <item>キャッシュなし</item>
+        <item>キャッシュのみ</item>
+    </string-array>
+    <string-array name="entry_values_cache_mode_option">
+        <item>DEFAULT</item>
+        <item>CACHE_ELSE_NETWORK</item>
+        <item>NO_CACHE</item>
+        <item>CACHE_ONLY</item>
+    </string-array>
+
+    <string-array name="entries_layout_algorithm_option">
+        <item>標準</item>
+        <item>1列</item>
+        <item>狭い列</item>
+        <item>テキスト自動サイズ変更</item>
+    </string-array>
+    <string-array name="entry_values_layout_algorithm_option">
+        <item>NORMAL</item>
+        <item>SINGLE_COLUMN</item>
+        <item>NARROW_COLUMNS</item>
+        <item>TEXT_AUTOSIZING</item>
+    </string-array>
+
+    <string-array name="entries_device_rotation_option">
+        <item>自動</item>
+        <item>0°</item>
+        <item>90°</item>
+        <item>180°</item>
+        <item>270°</item>
+    </string-array>
+    <string-array name="entry_values_device_rotation_option">
+        <item>AUTO</item>
+        <item>ROTATION_0</item>
+        <item>ROTATION_90</item>
+        <item>ROTATION_180</item>
+        <item>ROTATION_270</item>
+    </string-array>
+
+    <string-array name="entries_kiosk_control_panel_region_option">
+        <item>左上</item>
+        <item>右上</item>
+        <item>左下</item>
+        <item>右下</item>
+        <item>上</item>
+        <item>下</item>
+        <item>全体</item>
+        <item>無効</item>
+    </string-array>
+    <string-array name="entry_values_kiosk_control_panel_region_option">
+        <item>TOP_LEFT</item>
+        <item>TOP_RIGHT</item>
+        <item>BOTTOM_LEFT</item>
+        <item>BOTTOM_RIGHT</item>
+        <item>TOP</item>
+        <item>BOTTOM</item>
+        <item>FULL</item>
+        <item>DISABLED</item>
+    </string-array>
+
+    <string-array name="entries_webview_control_action_option">
+        <item>ナビゲーション</item>
+        <item>戻る</item>
+        <item>進む</item>
+        <item>再読込</item>
+        <item>ホーム</item>
+        <item>履歴</item>
+        <item>ブックマーク</item>
+        <item>ファイル</item>
+        <item>検索</item>
+        <item>上にスクロール</item>
+        <item>下にスクロール</item>
+        <item>アプリ</item>
+        <item>設定</item>
+        <item>ロック</item>
+        <item>ロック解除</item>
+    </string-array>
+    <string-array name="entry_values_webview_control_action_option">
+        <item>NAVIGATION</item>
+        <item>BACK</item>
+        <item>FORWARD</item>
+        <item>REFRESH</item>
+        <item>HOME</item>
+        <item>HISTORY</item>
+        <item>BOOKMARK</item>
+        <item>FILES</item>
+        <item>FIND</item>
+        <item>SCROLL_TOP</item>
+        <item>SCROLL_BOT</item>
+        <item>APPS</item>
+        <item>SETTINGS</item>
+        <item>LOCK</item>
+        <item>UNLOCK</item>
+    </string-array>
+
+    <string-array name="entries_webview_inset_option">
+        <item>なし</item>
+        <item>ステータスバー</item>
+        <item>ナビゲーションバー</item>
+        <item>システムバー</item>
+        <item>ディスプレイカットアウト</item>
+        <item>セーフドローイング</item>
+        <item>セーフジェスチャー</item>
+        <item>セーフコンテンツ</item>
+    </string-array>
+    <string-array name="entry_values_webview_inset_option">
+        <item>NONE</item>
+        <item>STATUS_BARS</item>
+        <item>NAVIGATION_BARS</item>
+        <item>SYSTEM_BARS</item>
+        <item>DISPLAY_CUTOUT</item>
+        <item>SAFE_DRAWING</item>
+        <item>SAFE_GESTURES</item>
+        <item>SAFE_CONTENT</item>
+    </string-array>
+
+    <string-array name="entries_back_button_hold_action_option">
+        <item>キオスク制御パネルを開く</item>
+        <item>ホームに移動</item>
+        <item>無効</item>
+    </string-array>
+    <string-array name="entry_values_back_button_hold_action_option">
+        <item>OPEN_KIOSK_CONTROL_PANEL</item>
+        <item>GO_HOME</item>
+        <item>DISABLED</item>
+    </string-array>
+
+    <string-array name="entries_unlock_auth_requirement_option">
+        <item>デフォルト</item>
+        <item>オフ</item>
+        <item>必須</item>
+    </string-array>
+    <string-array name="entry_values_unlock_auth_requirement_option">
+        <item>DEFAULT</item>
+        <item>OFF</item>
+        <item>REQUIRE</item>
+    </string-array>
+
+    <string-array name="entries_ssl_error_mode_option">
+        <item>ブロック</item>
+        <item>確認</item>
+        <item>続行</item>
+    </string-array>
+    <string-array name="entry_values_ssl_error_mode_option">
+        <item>BLOCK</item>
+        <item>PROMPT</item>
+        <item>PROCEED</item>
+    </string-array>
+
+    <string-array name="entries_search_suggestion_engine_option">
+        <item>なし</item>
+        <item>Google</item>
+        <item>DuckDuckGo</item>
+        <item>Yahoo</item>
+    </string-array>
+
+    <string-array name="entry_values_search_suggestion_engine_option">
+        <item>NONE</item>
+        <item>GOOGLE</item>
+        <item>DUCKDUCKGO</item>
+        <item>YAHOO</item>
+    </string-array>
+
+    <string-array name="entries_mixed_content_mode_option">
+        <item>許可しない</item>
+        <item>互換モード</item>
+        <item>常に許可</item>
+    </string-array>
+    <string-array name="entry_values_mixed_content_mode_option">
+        <item>NEVER_ALLOW</item>
+        <item>COMPATIBILITY_MODE</item>
+        <item>ALWAYS_ALLOW</item>
+    </string-array>
+
+    <string-array name="entries_over_scroll_mode_option">
+        <item>なし</item>
+        <item>常に</item>
+        <item>コンテンツがスクロール可能な場合</item>
+    </string-array>
+    <string-array name="entry_values_over_scroll_mode_option">
+        <item>NEVER</item>
+        <item>ALWAYS</item>
+        <item>IF_CONTENT_SCROLLS</item>
+    </string-array>
+
+    <string-array name="entries_override_url_loading_block_action_option">
+        <item>ブロック ページを表示</item>
+        <item>ナビゲーションを防止</item>
+        <item>トースト通知を表示</item>
+    </string-array>
+    <string-array name="entry_values_override_url_loading_block_action_option">
+        <item>SHOW_BLOCK_PAGE</item>
+        <item>PREVENT_NAVIGATION</item>
+        <item>SHOW_TOAST</item>
+    </string-array>
+
+    <string-array name="entries_mqtt_qos_option">
+        <item>最大1回（0）</item>
+        <item>最低1回（1）</item>
+        <item>正確に1回（2）</item>
+    </string-array>
+    <string-array name="entry_values_mqtt_qos_option">
+        <item>AT_MOST_ONCE</item>
+        <item>AT_LEAST_ONCE</item>
+        <item>EXACTLY_ONCE</item>
+    </string-array>
+
+    <string-array name="entries_mqtt_retain_handling_option">
+        <item>送信</item>
+        <item>購読が存在しない場合のみ送信</item>
+        <item>送信しない</item>
+    </string-array>
+    <string-array name="entry_values_mqtt_retain_handling_option">
+        <item>SEND</item>
+        <item>SEND_IF_SUBSCRIPTION_DOES_NOT_EXIST</item>
+        <item>DO_NOT_SEND</item>
+    </string-array>
+</resources>

@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Web Content -->
+    <string name="web_content_home_url_title">ホームURL</string>
+    <string name="web_content_home_url_description">https://webviewkiosk.nktnet.uk/docs/settings/web-content/</string>
+
+    <string name="web_content_website_blacklist_title">ウェブサイト ブラックリスト</string>
+    <string name="web_content_website_blacklist_description">https://webviewkiosk.nktnet.uk/docs/settings/web-content/</string>
+
+    <string name="web_content_website_whitelist_title">ウェブサイト ホワイトリスト</string>
+    <string name="web_content_website_whitelist_description">https://webviewkiosk.nktnet.uk/docs/settings/web-content/</string>
+
+    <string name="web_content_website_bookmarks_title">ウェブサイト ブックマーク</string>
+    <string name="web_content_website_bookmarks_description">https://webviewkiosk.nktnet.uk/docs/settings/web-content/</string>
+
+    <string name="web_content_allow_local_files_title">ローカルファイルを許可</string>
+    <string name="web_content_allow_local_files_description">https://webviewkiosk.nktnet.uk/docs/settings/web-content/</string>
+
+    <!-- Web Browsing -->
+    <string name="web_browsing_allow_refresh_title">再読込を許可</string>
+    <string name="web_browsing_allow_refresh_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_allow_pull_to_refresh_title">プルで更新を許可</string>
+    <string name="web_browsing_allow_pull_to_refresh_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_allow_backwards_navigation_title">戻るナビゲーションを許可</string>
+    <string name="web_browsing_allow_backwards_navigation_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_allow_go_home_title">ホームに移動を許可</string>
+    <string name="web_browsing_allow_go_home_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_clear_history_on_home_title">ホーム時に履歴をクリア</string>
+    <string name="web_browsing_clear_history_on_home_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_replace_history_url_on_redirect_title">リダイレクト時に履歴URL を置換</string>
+    <string name="web_browsing_replace_history_url_on_redirect_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_allow_history_access_title">履歴へのアクセスを許可</string>
+    <string name="web_browsing_allow_history_access_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_allow_bookmark_access_title">ブックマークへのアクセスを許可</string>
+    <string name="web_browsing_allow_bookmark_access_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_allow_other_url_schemes_title">その他の URL スキームを許可</string>
+    <string name="web_browsing_allow_other_url_schemes_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_allow_default_long_press_title">デフォルト長押しを許可</string>
+    <string name="web_browsing_allow_default_long_press_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_allow_link_long_press_context_menu_title">リンク長押しコンテキストメニューを許可</string>
+    <string name="web_browsing_allow_link_long_press_context_menu_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_override_url_loading_block_action_title">URL 読込ブロックアクションをオーバーライド</string>
+    <string name="web_browsing_override_url_loading_block_action_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_address_bar_actions_title">アドレスバー アクション</string>
+    <string name="web_browsing_address_bar_actions_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_kiosk_control_panel_region_title">キオスク制御パネル領域</string>
+    <string name="web_browsing_kiosk_control_panel_region_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_kiosk_control_panel_actions_title">キオスク制御パネル アクション</string>
+    <string name="web_browsing_kiosk_control_panel_actions_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_search_provider_url_title">検索プロバイダー URL</string>
+    <string name="web_browsing_search_provider_url_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <string name="web_browsing_search_suggestion_engine_title">検索提案エンジン</string>
+    <string name="web_browsing_search_suggestion_engine_description">https://webviewkiosk.nktnet.uk/docs/settings/web-browsing/</string>
+
+    <!-- Web Engine -->
+    <string name="web_engine_enable_javascript_title">JavaScript を有効化</string>
+    <string name="web_engine_enable_javascript_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_enable_dom_storage_title">DOM ストレージを有効化</string>
+    <string name="web_engine_enable_dom_storage_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_cache_mode_title">キャッシュモード</string>
+    <string name="web_engine_cache_mode_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_layout_algorithm_title">レイアウトアルゴリズム</string>
+    <string name="web_engine_layout_algorithm_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_accept_cookies_title">Cookie を受け入れ</string>
+    <string name="web_engine_accept_cookies_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_accept_third_party_cookies_title">サードパーティ Cookie を受け入れ</string>
+    <string name="web_engine_accept_third_party_cookies_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_user_agent_title">ユーザーエージェント</string>
+    <string name="web_engine_user_agent_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_use_wide_viewport_title">広いビューポートを使用</string>
+    <string name="web_engine_use_wide_viewport_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_load_with_overview_mode_title">概要モードで読込</string>
+    <string name="web_engine_load_with_overview_mode_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_support_zoom_title">ズームをサポート</string>
+    <string name="web_engine_support_zoom_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_built_in_zoom_controls_title">組み込みズームコントロール</string>
+    <string name="web_engine_built_in_zoom_controls_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_display_zoom_controls_title">ズームコントロールを表示</string>
+    <string name="web_engine_display_zoom_controls_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_initial_scale_title">初期スケール</string>
+    <string name="web_engine_initial_scale_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_allow_file_access_from_file_urls_title">ファイル URL からのファイルアクセスを許可</string>
+    <string name="web_engine_allow_file_access_from_file_urls_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_allow_universal_access_from_file_urls_title">ファイル URL からの汎用アクセスを許可</string>
+    <string name="web_engine_allow_universal_access_from_file_urls_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_allow_file_picker_title">ファイルピッカーを許可</string>
+    <string name="web_engine_allow_file_picker_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_allow_file_download_title">ファイルダウンロードを許可</string>
+    <string name="web_engine_allow_file_download_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_media_playback_requires_user_gesture_title">メディア再生にはユーザー操作が必要</string>
+    <string name="web_engine_media_playback_requires_user_gesture_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_ssl_error_mode_title">SSL エラーモード</string>
+    <string name="web_engine_ssl_error_mode_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_mixed_content_mode_title">混合コンテンツモード</string>
+    <string name="web_engine_mixed_content_mode_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_over_scroll_mode_title">オーバースクロール モード</string>
+    <string name="web_engine_over_scroll_mode_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <string name="web_engine_request_focus_on_page_start_title">ページ開始時にフォーカスをリクエスト</string>
+    <string name="web_engine_request_focus_on_page_start_description">https://webviewkiosk.nktnet.uk/docs/settings/web-engine/</string>
+
+    <!-- Web Lifecycle -->
+    <string name="web_lifecycle_lock_on_launch_title">起動時にロック</string>
+    <string name="web_lifecycle_lock_on_launch_description">https://webviewkiosk.nktnet.uk/docs/settings/web-lifecycle/</string>
+
+    <string name="web_lifecycle_reset_on_launch_title">起動時にリセット</string>
+    <string name="web_lifecycle_reset_on_launch_description">https://webviewkiosk.nktnet.uk/docs/settings/web-lifecycle/</string>
+
+    <string name="web_lifecycle_reset_on_inactivity_seconds_title">不活動時にリセット（秒）</string>
+    <string name="web_lifecycle_reset_on_inactivity_seconds_description">https://webviewkiosk.nktnet.uk/docs/settings/web-lifecycle/</string>
+
+    <string name="web_lifecycle_dim_screen_on_inactivity_seconds_title">不活動時に画面を暗くする（秒）</string>
+    <string name="web_lifecycle_dim_screen_on_inactivity_seconds_description">https://webviewkiosk.nktnet.uk/docs/settings/web-lifecycle/</string>
+
+    <string name="web_lifecycle_refresh_on_loading_error_interval_seconds_title">読込エラー時に更新（秒）</string>
+    <string name="web_lifecycle_refresh_on_loading_error_interval_seconds_description">https://webviewkiosk.nktnet.uk/docs/settings/web-lifecycle/</string>
+
+    <!-- Appearance -->
+    <string name="appearance_theme_title">テーマ</string>
+    <string name="appearance_theme_description">https://webviewkiosk.nktnet.uk/docs/settings/appearance/</string>
+
+    <string name="appearance_floating_toolbar_mode_title">フローティングツールバー モード</string>
+    <string name="appearance_floating_toolbar_mode_description">https://webviewkiosk.nktnet.uk/docs/settings/appearance/</string>
+
+    <string name="appearance_webview_inset_title">WebView インセット</string>
+    <string name="appearance_webview_inset_description">https://webviewkiosk.nktnet.uk/docs/settings/appearance/</string>
+
+    <string name="appearance_immersive_mode_title">イマーシブモード</string>
+    <string name="appearance_immersive_mode_description">https://webviewkiosk.nktnet.uk/docs/settings/appearance/</string>
+
+    <string name="appearance_blocked_message_title">ブロック メッセージ</string>
+    <string name="appearance_blocked_message_description">https://webviewkiosk.nktnet.uk/docs/settings/appearance/</string>
+
+    <string name="appearance_custom_block_page_html_title">カスタム ブロック ページ HTML</string>
+    <string name="appearance_custom_block_page_html_description">https://webviewkiosk.nktnet.uk/docs/settings/appearance/</string>
+
+    <string name="appearance_address_bar_mode_title">アドレスバー モード</string>
+    <string name="appearance_address_bar_mode_description">https://webviewkiosk.nktnet.uk/docs/settings/appearance/</string>
+
+    <string name="appearance_address_bar_position_title">アドレスバー 位置</string>
+    <string name="appearance_address_bar_position_description">https://webviewkiosk.nktnet.uk/docs/settings/appearance/</string>
+
+    <string name="appearance_address_bar_size_title">アドレスバー サイズ</string>
+    <string name="appearance_address_bar_size_description">https://webviewkiosk.nktnet.uk/docs/settings/appearance/</string>
+
+    <!-- Device -->
+    <string name="device_keep_screen_on_title">画面をオンに保つ</string>
+    <string name="device_keep_screen_on_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_rotation_title">回転</string>
+    <string name="device_rotation_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_brightness_title">明度</string>
+    <string name="device_brightness_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_allow_camera_title">カメラを許可</string>
+    <string name="device_allow_camera_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_allow_microphone_title">マイクを許可</string>
+    <string name="device_allow_microphone_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_allow_location_title">位置情報を許可</string>
+    <string name="device_allow_location_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_allow_notifications_title">通知を許可</string>
+    <string name="device_allow_notifications_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_back_button_hold_action_title">戻るボタン 長押しアクション</string>
+    <string name="device_back_button_hold_action_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_custom_unlock_shortcut_title">カスタム ロック解除 ショートカット</string>
+    <string name="device_custom_unlock_shortcut_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_custom_auth_password_title">カスタム認証 パスワード</string>
+    <string name="device_custom_auth_password_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_unlock_auth_requirement_title">ロック解除 認証要件</string>
+    <string name="device_unlock_auth_requirement_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_block_screen_capture_title">スクリーンキャプチャをブロック</string>
+    <string name="device_block_screen_capture_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_block_volume_keys_title">音量キーをブロック</string>
+    <string name="device_block_volume_keys_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <!-- Device Owner -->
+    <string name="device_owner_lock_task_feature_home_title">ホームボタンを表示</string>
+    <string name="device_owner_lock_task_feature_home_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_owner_lock_task_feature_overview_title">概要ボタンを表示</string>
+    <string name="device_owner_lock_task_feature_overview_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_owner_lock_task_feature_global_actions_title">グローバルアクションを有効化</string>
+    <string name="device_owner_lock_task_feature_global_actions_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_owner_lock_task_feature_notifications_title">通知を有効化</string>
+    <string name="device_owner_lock_task_feature_notifications_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_owner_lock_task_feature_system_info_title">システム情報を表示</string>
+    <string name="device_owner_lock_task_feature_system_info_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_owner_lock_task_feature_keyguard_title">キーガードを有効化</string>
+    <string name="device_owner_lock_task_feature_keyguard_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_owner_lock_task_feature_block_activity_start_in_task_title">タスク内のアクティビティ開始をブロック</string>
+    <string name="device_owner_lock_task_feature_block_activity_start_in_task_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <string name="device_owner_dhizuku_request_permission_on_launch_title">起動時に Dhizuku 権限をリクエスト</string>
+    <string name="device_owner_dhizuku_request_permission_on_launch_description">https://webviewkiosk.nktnet.uk/docs/settings/device/</string>
+
+    <!-- JS Scripts -->
+    <string name="js_scripts_apply_app_theme_title">アプリテーマを適用</string>
+    <string name="js_scripts_apply_app_theme_description">https://webviewkiosk.nktnet.uk/docs/settings/js-scripts/</string>
+
+    <string name="js_scripts_apply_desktop_viewport_width_title">デスクトップビューポート幅を適用（px）</string>
+    <string name="js_scripts_apply_desktop_viewport_width_description">https://webviewkiosk.nktnet.uk/docs/settings/js-scripts/</string>
+
+    <string name="js_scripts_enable_battery_api_title">バッテリー API を有効化</string>
+    <string name="js_scripts_enable_battery_api_description">https://webviewkiosk.nktnet.uk/docs/settings/js-scripts/</string>
+
+    <string name="js_scripts_enable_brightness_api_title">明度 API を有効化</string>
+    <string name="js_scripts_enable_brightness_api_description">https://webviewkiosk.nktnet.uk/docs/settings/js-scripts/</string>
+
+    <string name="js_scripts_custom_script_on_page_start_title">ページ開始時（カスタム）</string>
+    <string name="js_scripts_custom_script_on_page_start_description">https://webviewkiosk.nktnet.uk/docs/settings/js-scripts/</string>
+
+    <string name="js_scripts_custom_script_on_page_finish_title">ページ終了時（カスタム）</string>
+    <string name="js_scripts_custom_script_on_page_finish_description">https://webviewkiosk.nktnet.uk/docs/settings/js-scripts/</string>
+
+    <!-- MQTT -->
+    <string name="mqtt_enabled_title">有効</string>
+    <string name="mqtt_enabled_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/</string>
+
+    <string name="mqtt_use_foreground_service_title">フォアグラウンド サービスを使用</string>
+    <string name="mqtt_use_foreground_service_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/</string>
+
+    <!-- MQTT Connection -->
+    <string name="mqtt_connection_server_host_title">サーバー ホスト</string>
+    <string name="mqtt_connection_server_host_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/connection/</string>
+
+    <string name="mqtt_connection_server_port_title">サーバー ポート</string>
+    <string name="mqtt_connection_server_port_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/connection/</string>
+
+    <string name="mqtt_connection_client_id_title">クライアント ID</string>
+    <string name="mqtt_connection_client_id_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/connection/</string>
+
+    <string name="mqtt_connection_use_tls_title">TLS を使用</string>
+    <string name="mqtt_connection_use_tls_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/connection/</string>
+
+    <string name="mqtt_connection_username_title">ユーザー名</string>
+    <string name="mqtt_connection_username_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/connection/</string>
+
+    <string name="mqtt_connection_password_title">パスワード</string>
+    <string name="mqtt_connection_password_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/connection/</string>
+
+    <string name="mqtt_connection_clean_start_title">クリーンスタート</string>
+    <string name="mqtt_connection_clean_start_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/connection/</string>
+
+    <string name="mqtt_connection_keep_alive_title">キープアライブ（秒）</string>
+    <string name="mqtt_connection_keep_alive_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/connection/</string>
+
+    <string name="mqtt_connection_connect_timeout_title">接続タイムアウト（秒）</string>
+    <string name="mqtt_connection_connect_timeout_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/connection/</string>
+
+    <string name="mqtt_connection_socket_connect_timeout_title">ソケット接続タイムアウト（秒）</string>
+    <string name="mqtt_connection_socket_connect_timeout_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/connection/</string>
+
+    <string name="mqtt_connection_automatic_reconnect_title">自動再接続</string>
+    <string name="mqtt_connection_automatic_reconnect_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/connection/</string>
+
+    <string name="mqtt_connection_session_expiry_interval_title">セッション有効期限（秒）</string>
+    <string name="mqtt_connection_session_expiry_interval_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/connection/</string>
+
+    <string name="mqtt_connection_use_websocket_title">WebSocket を使用</string>
+    <string name="mqtt_connection_use_websocket_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/connection/</string>
+
+    <string name="mqtt_connection_websocket_server_path_title">WebSocket サーバーパス</string>
+    <string name="mqtt_connection_websocket_server_path_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/connection/</string>
+
+    <!-- MQTT Will -->
+    <string name="mqtt_will_topic_title">遺言 トピック</string>
+    <string name="mqtt_will_topic_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/will/</string>
+
+    <string name="mqtt_will_qos_title">遺言 QoS</string>
+    <string name="mqtt_will_qos_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/will/</string>
+
+    <string name="mqtt_will_payload_title">遺言 ペイロード</string>
+    <string name="mqtt_will_payload_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/will/</string>
+
+    <string name="mqtt_will_retain_title">遺言 保持</string>
+    <string name="mqtt_will_retain_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/will/</string>
+
+    <string name="mqtt_will_message_expiry_interval_title">遺言メッセージ有効期限（秒）</string>
+    <string name="mqtt_will_message_expiry_interval_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/will/</string>
+
+    <string name="mqtt_will_delay_interval_title">遺言遅延間隔（秒）</string>
+    <string name="mqtt_will_delay_interval_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/will/</string>
+
+    <!-- MQTT Restrictions -->
+    <string name="mqtt_restrictions_receive_maximum_title">受信最大値</string>
+    <string name="mqtt_restrictions_receive_maximum_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/restrictions/</string>
+
+    <string name="mqtt_restrictions_send_maximum_title">送信最大値</string>
+    <string name="mqtt_restrictions_send_maximum_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/restrictions/</string>
+
+    <string name="mqtt_restrictions_maximum_packet_size_title">最大パケットサイズ</string>
+    <string name="mqtt_restrictions_maximum_packet_size_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/restrictions/</string>
+
+    <string name="mqtt_restrictions_send_maximum_packet_size_title">送信最大パケットサイズ</string>
+    <string name="mqtt_restrictions_send_maximum_packet_size_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/restrictions/</string>
+
+    <string name="mqtt_restrictions_topic_alias_maximum_title">トピックエイリアス最大値</string>
+    <string name="mqtt_restrictions_topic_alias_maximum_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/restrictions/</string>
+
+    <string name="mqtt_restrictions_send_topic_alias_maximum_title">送信トピックエイリアス最大値</string>
+    <string name="mqtt_restrictions_send_topic_alias_maximum_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/restrictions/</string>
+
+    <string name="mqtt_restrictions_request_problem_information_title">問題情報をリクエスト</string>
+    <string name="mqtt_restrictions_request_problem_information_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/restrictions/</string>
+
+    <string name="mqtt_restrictions_request_response_information_title">応答情報をリクエスト</string>
+    <string name="mqtt_restrictions_request_response_information_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/restrictions/</string>
+
+    <!-- MQTT Topics: Publish and Subscribe -->
+    <!-- Publish Event -->
+    <string name="mqtt_publish_event_topic_title">トピック</string>
+    <string name="mqtt_publish_event_topic_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/event/</string>
+
+    <string name="mqtt_publish_event_qos_title">QoS</string>
+    <string name="mqtt_publish_event_qos_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/event/</string>
+
+    <string name="mqtt_publish_event_retain_title">保持</string>
+    <string name="mqtt_publish_event_retain_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/event/</string>
+
+    <!-- Publish Response -->
+    <string name="mqtt_publish_response_topic_title">トピック</string>
+    <string name="mqtt_publish_response_topic_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/response/</string>
+
+    <string name="mqtt_publish_response_qos_title">QoS</string>
+    <string name="mqtt_publish_response_qos_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/response/</string>
+
+    <string name="mqtt_publish_response_retain_title">保持</string>
+    <string name="mqtt_publish_response_retain_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/response/</string>
+
+    <!-- Subscribe Command -->
+    <string name="mqtt_subscribe_command_topic_title">トピック</string>
+    <string name="mqtt_subscribe_command_topic_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/command/</string>
+
+    <string name="mqtt_subscribe_command_qos_title">QoS</string>
+    <string name="mqtt_subscribe_command_qos_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/command/</string>
+
+    <string name="mqtt_subscribe_command_retain_handling_title">保持処理</string>
+    <string name="mqtt_subscribe_command_retain_handling_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/command/</string>
+
+    <string name="mqtt_subscribe_command_retain_as_published_title">発行時に保持</string>
+    <string name="mqtt_subscribe_command_retain_as_published_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/command/</string>
+
+    <!-- Subscribe Settings -->
+    <string name="mqtt_subscribe_settings_topic_title">トピック</string>
+    <string name="mqtt_subscribe_settings_topic_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/settings/</string>
+
+    <string name="mqtt_subscribe_settings_qos_title">QoS</string>
+    <string name="mqtt_subscribe_settings_qos_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/settings/</string>
+
+    <string name="mqtt_subscribe_settings_retain_handling_title">保持処理</string>
+    <string name="mqtt_subscribe_settings_retain_handling_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/settings/</string>
+
+    <string name="mqtt_subscribe_settings_retain_as_published_title">発行時に保持</string>
+    <string name="mqtt_subscribe_settings_retain_as_published_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/settings/</string>
+
+    <!-- Subscribe Request -->
+    <string name="mqtt_subscribe_request_topic_title">トピック</string>
+    <string name="mqtt_subscribe_request_topic_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/request/</string>
+
+    <string name="mqtt_subscribe_request_qos_title">QoS</string>
+    <string name="mqtt_subscribe_request_qos_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/request/</string>
+
+    <string name="mqtt_subscribe_request_retain_handling_title">保持処理</string>
+    <string name="mqtt_subscribe_request_retain_handling_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/request/</string>
+
+    <string name="mqtt_subscribe_request_retain_as_published_title">発行時に保持</string>
+    <string name="mqtt_subscribe_request_retain_as_published_description">https://webviewkiosk.nktnet.uk/docs/settings/mqtt/topics/request/</string>
+
+    <!-- UnifiedPush -->
+    <string name="unifiedpush_enabled_title">有効</string>
+    <string name="unifiedpush_enabled_description">https://webviewkiosk.nktnet.uk/docs/settings/unifiedpush/</string>
+
+    <string name="unifiedpush_distributor_title">ディストリビューター</string>
+    <string name="unifiedpush_distributor_description">https://webviewkiosk.nktnet.uk/docs/settings/unifiedpush/</string>
+
+    <string name="unifiedpush_instance_title">インスタンス</string>
+    <string name="unifiedpush_instance_description">https://webviewkiosk.nktnet.uk/docs/settings/unifiedpush/</string>
+
+    <string name="unifiedpush_message_for_distributor_title">ディストリビューター用メッセージ</string>
+    <string name="unifiedpush_message_for_distributor_description">https://webviewkiosk.nktnet.uk/docs/settings/unifiedpush/</string>
+
+    <string name="unifiedpush_vapid_public_key_title">VAPID 公開鍵</string>
+    <string name="unifiedpush_vapid_public_key_description">https://webviewkiosk.nktnet.uk/docs/settings/unifiedpush/</string>
+
+    <string name="unifiedpush_process_unencrypted_messages_title">暗号化されていないメッセージを処理</string>
+    <string name="unifiedpush_process_unencrypted_messages_description">https://webviewkiosk.nktnet.uk/docs/settings/unifiedpush/</string>
+
+    <string name="unifiedpush_store_endpoint_credentials_title">エンドポイント認証情報を保存</string>
+    <string name="unifiedpush_store_endpoint_credentials_description">https://webviewkiosk.nktnet.uk/docs/settings/unifiedpush/</string>
+</resources>

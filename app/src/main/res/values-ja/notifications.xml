@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_lock_task_title">ロックタスク モード サービス</string>
+    <string name="notification_lock_task_text">%1$s に戻るをタップ</string>
+
+    <string name="notification_mqtt_service_title">MQTT サービス</string>
+    <string name="notification_remote_notify_command_title">リモート通知コマンド</string>
+    <string name="notification_blob_download_title">ブロブダウンロード</string>
+</resources>
